@@ -1,0 +1,12 @@
+<?import javafx.scene.control.DialogPane?>
+<DialogPane fx:controller="errorController" xmlns:fx="http://javafx.com/fxml">
+
+
+    <headerText>
+        All the input fields should be filled
+        with some inputs.
+    </headerText>
+
+
+
+</DialogPane>
